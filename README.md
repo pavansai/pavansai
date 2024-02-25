@@ -2,7 +2,7 @@
 - 👀 I’m interested in building projects on java.
 - 🌱 I’m currently learning java.
 - 📫 How to reach me mail: pavansai0813@gmail.com
-- My Linkedin https://www.linkedin.com/in/pavan-sai-veeragandham/
+- My Linkedin https://www.linkedin.com/in/pavan-sai-chiru/
 
 <!---
 pavansai/pavansai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
