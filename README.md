@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavansai
 - 👀 I’m interested in building projects on java and backend applications.
 - 📫 How to reach me mail: pavansai0813@gmail.com
-- My Linkedin https://www.linkedin.com/in/pavan-sai-chiru/
+
 
 <!---
 pavansai/pavansai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
